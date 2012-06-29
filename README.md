@@ -1,4 +1,8 @@
-cartthrob-shipping-by_location_weight_threshold_w_options
+cartthrob-shipping
 =========================================================
 
-Shipping by location weight threshold with options
+Installation: move file to system > expressionengine > third_party > cartthrob > cartthrob > plugins > shipping
+
+http://cartthrob.com/docs/shipping/index.html
+
+This plugin is provided as-is at no cost with no warranty expressed or implied. Support is not included. 
